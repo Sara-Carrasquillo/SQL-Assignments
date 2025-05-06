@@ -1,0 +1,1 @@
+Disclaimer: These assignments are submitted only for CTS 2445 SQL Programming at Seminole State College of Florida. It is for educational purposes only and should not be distributed, copied, or used for any other purpose without explicit permission from the course instructor or relevant authorities. This material is the student's original work, unless otherwise stated. 
